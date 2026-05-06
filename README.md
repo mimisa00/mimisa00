@@ -1,4 +1,4 @@
-# Shaun (Liao, Chih-Hsiu)
+# Shaun
 
 **Senior Chief Engineer | Lead Infrastructure Engineer**  
 Taichung, Taiwan | [mimisa00@gmail.com](mailto:mimisa00@gmail.com)  
