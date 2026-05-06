@@ -56,20 +56,6 @@ Taichung, Taiwan
 - Mentored team members, defined OKRs, and established standard operating procedures for development, deployment, and onboarding
 - Continuously optimized system architecture to maintain high availability and compliance with internal controls
 
-**Android App Developer**  
-**Personal Studio**  
-Taichung, Taiwan  
-*August 2012 – July 2013*
-
-- Independently designed, developed, and published multiple Android applications that achieved over 1 million total downloads
-
-**Software Engineer**  
-**Chih-Shan Information Co., Ltd.**  
-Taichung, Taiwan  
-*August 2011 – August 2012*
-
-- Developed and maintained securities brokerage financial systems using Visual FoxPro
-- Provided technical support and custom development for clients
 
 ### Education
 
