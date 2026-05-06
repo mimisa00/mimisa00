@@ -18,10 +18,10 @@ Taichung, Taiwan | [mimisa00@gmail.com](mailto:mimisa00@gmail.com)
 | Category                  | Technologies |
 |---------------------------|--------------|
 | **DevOps & CI/CD**        | Jenkins, GitLab CI, Maven, Nexus, Infrastructure as Code (IaC) |
-| **Containerization**      | Docker, Kubernetes (K8s), Docker Swarm, Portainer |
-| **Cloud & Infrastructure**| Google Cloud Platform (GCP), VMware vSphere/ESXi, FortiGate, Linux (CentOS/Rocky) |
+| **Containerization**      | Docker, Kubernetes , Docker Swarm |
+| **Cloud & Infrastructure**| Google Cloud Platform , VMware vSphere/ESXi, FortiGate, Linux (CentOS/Rocky) |
 | **Observability**         | Prometheus, Grafana, ELK Stack, Pinpoint, Custom Shell Scripts |
-| **Backend**               | Java (Spring Boot), Hibernate (ORM), PHP, Python, Shell Scripting |
+| **Backend**               | Java (Spring Boot), Hibernate (ORM), PHP, Python, Shell Script尸 |
 | **Databases**             | MariaDB, SQL Server, MySQL |
 | **Others**                | Nginx, Tomcat, Git, Jira, Confluence, Solr |
 
