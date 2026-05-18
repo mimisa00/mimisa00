@@ -2,7 +2,7 @@
 
 **Senior Chief Engineer | Lead Infrastructure Engineer**  
 Taichung, Taiwan | [mimisa00@gmail.com](mailto:mimisa00@gmail.com)  
-[LinkedIn]([https://www.linkedin.com/in/shaun8168/](https://www.linkedin.com/in/shaun8168?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) | [GitHub](https://github.com/mimisa00) | Open to Relocate to Vietnam
+[LinkedIn](https://www.linkedin.com/in/shaun8168?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/mimisa00) | Open to Relocate to Vietnam
 
 ---
 
