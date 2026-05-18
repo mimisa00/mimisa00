@@ -11,7 +11,7 @@ Taichung, Taiwan | [mimisa00@gmail.com](mailto:mimisa00@gmail.com)
 
 
 ### Professional Summary
-12+ years of experience in backend development, system architecture, and large-scale ERP infrastructure operations. Specialized in building high-availability systems, implementing CI/CD pipelines, container orchestration, and proactive monitoring. Proven ability to lead cross-functional teams, standardize processes, and deliver operational stability while maintaining strict security and compliance standards. Currently piloting end-to-end AI Agent workflows — from Jira issue ingestion and requirements analysis to spec generation, coding, and automated deployment — with multiple successful cases delivered and actively expanding coverage.
+13+ years of experience in backend development, system architecture, and large-scale ERP infrastructure operations. Specialized in building high-availability systems, implementing CI/CD pipelines, container orchestration, and proactive monitoring. Proven ability to lead cross-functional teams, standardize processes, and deliver operational stability while maintaining strict security and compliance standards. Currently piloting end-to-end AI Agent workflows — from Jira issue ingestion and requirements analysis to spec generation, coding, and automated deployment — with multiple successful cases delivered and actively expanding coverage.
 
 ### Technical Skills
 
@@ -21,7 +21,7 @@ Taichung, Taiwan | [mimisa00@gmail.com](mailto:mimisa00@gmail.com)
 | **Containerization**      | Docker, Kubernetes , Docker Swarm |
 | **Cloud & Infrastructure**| Google Cloud Platform , VMware vSphere/ESXi, FortiGate, Linux (CentOS/Rocky) |
 | **Observability**         | Prometheus, Grafana, ELK Stack, Pinpoint, Custom Shell Scripts |
-| **Backend**               | Java (Spring Boot), Hibernate (ORM), PHP, Python, Shell Script尸 |
+| **Backend**               | Java (Spring Boot), Hibernate (ORM), PHP, Python, Shell Script |
 | **Databases**             | MariaDB, SQL Server, MySQL |
 | **Others**                | Nginx, Tomcat, Git, Jira, Confluence, Solr |
 
